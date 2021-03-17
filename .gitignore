@@ -1,0 +1,7 @@
+/venv/
+*.xlsx
+*.xslx
+*.xls
+*.csv
+.DS_Store
+*/.ipynb_checkpoints/table4-checkpoint.ipynb
