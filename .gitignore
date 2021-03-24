@@ -5,3 +5,4 @@
 *.csv
 .DS_Store
 */.ipynb_checkpoints/table4-checkpoint.ipynb
+*/.ipynb_checkpoints/
